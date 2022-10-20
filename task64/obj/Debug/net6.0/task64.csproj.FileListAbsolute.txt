@@ -1,0 +1,15 @@
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/bin/Debug/net6.0/task64
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/bin/Debug/net6.0/task64.deps.json
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/bin/Debug/net6.0/task64.runtimeconfig.json
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/bin/Debug/net6.0/task64.dll
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/bin/Debug/net6.0/task64.pdb
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.csproj.AssemblyReference.cache
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.GeneratedMSBuildEditorConfig.editorconfig
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.AssemblyInfoInputs.cache
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.AssemblyInfo.cs
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.csproj.CoreCompileInputs.cache
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.dll
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/refint/task64.dll
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.pdb
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/task64.genruntimeconfig.cache
+/home/user-rast/Рабочий стол/newFolderLesson9/task64/obj/Debug/net6.0/ref/task64.dll
